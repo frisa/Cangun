@@ -1,0 +1,69 @@
+D:\zz-Tools development\cangun\cangun\bin\Debug\cangun.exe
+D:\zz-Tools development\cangun\cangun\bin\Debug\cangun.pdb
+D:\zz-Tools development\cangun\cangun\obj\x86\Debug\MainWindow.g.cs
+D:\zz-Tools development\cangun\cangun\obj\x86\Debug\App.g.cs
+D:\zz-Tools development\cangun\cangun\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\zz-Tools development\cangun\cangun\obj\x86\Debug\cangun_MarkupCompile.cache
+D:\zz-Tools development\cangun\cangun\obj\x86\Debug\cangun_MarkupCompile.lref
+D:\zz-Tools development\cangun\cangun\obj\x86\Debug\MainWindow.baml
+D:\zz-Tools development\cangun\cangun\obj\x86\Debug\cangun.g.resources
+D:\zz-Tools development\cangun\cangun\obj\x86\Debug\cangun.Properties.Resources.resources
+D:\zz-Tools development\cangun\cangun\obj\x86\Debug\cangun.csproj.GenerateResource.Cache
+D:\zz-Tools development\cangun\cangun\obj\x86\Debug\cangun.exe
+D:\zz-Tools development\cangun\cangun\obj\x86\Debug\cangun.pdb
+D:\zz-Tools development\cangun\cangun\bin\Debug\vxlapi_NET20.dll
+D:\zz-Tools development\cangun\cangun\obj\x86\Debug\cangun_Content.g.cs
+D:\zz-Tools development\cangun\cangun\bin\Debug\vxlapi.dll
+D:\zz-Tools development\cangun\cangun\obj\x86\Debug\Themes\ThemeDic.baml
+d:\zz-Tools development\cangun\cangun\obj\x86\Debug\cangun.csprojResolveAssemblyReference.cache
+D:\zz-Tools development\cangun\cangun\bin\Debug\cangun.exe.manifest
+D:\zz-Tools development\cangun\cangun\bin\Debug\cangun.application
+D:\zz-Tools development\cangun\cangun\obj\x86\Debug\cangun.exe.manifest
+D:\zz-Tools development\cangun\cangun\obj\x86\Debug\cangun.application
+D:\zz-Tools development\cangun\cangun\bin\Debug\cangun.exe.config
+D:\zz-Tools development\cangun05\cangun\cangun\bin\Debug\cangun.exe.config
+D:\zz-Tools development\cangun05\cangun\cangun\obj\x86\Debug\cangun.exe
+D:\zz-Tools development\cangun05\cangun\cangun\obj\x86\Debug\cangun.pdb
+D:\zz-Tools development\cangun05\cangun\cangun\obj\x86\Debug\cangun.csprojResolveAssemblyReference.cache
+D:\zz-Tools development\cangun05\cangun\cangun\obj\x86\Debug\Themes\ThemeDic.baml
+D:\zz-Tools development\cangun05\cangun\cangun\obj\x86\Debug\App.g.cs
+D:\zz-Tools development\cangun05\cangun\cangun\obj\x86\Debug\cangun_Content.g.cs
+D:\zz-Tools development\cangun05\cangun\cangun\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\zz-Tools development\cangun05\cangun\cangun\obj\x86\Debug\cangun_MarkupCompile.cache
+D:\zz-Tools development\cangun05\cangun\cangun\bin\Debug\vxlapi.dll
+D:\zz-Tools development\cangun05\cangun\cangun\bin\Debug\vxlapi_NET20.dll
+D:\zz-Tools development\cangun05\cangun\cangun\bin\Debug\cangun.exe.manifest
+D:\zz-Tools development\cangun05\cangun\cangun\bin\Debug\cangun.application
+D:\zz-Tools development\cangun05\cangun\cangun\bin\Debug\cangun.exe
+D:\zz-Tools development\cangun05\cangun\cangun\bin\Debug\cangun.pdb
+D:\zz-Tools development\cangun05\cangun\cangun\obj\x86\Debug\MainWindow.g.cs
+D:\zz-Tools development\cangun05\cangun\cangun\obj\x86\Debug\cangun_MarkupCompile.lref
+D:\zz-Tools development\cangun05\cangun\cangun\obj\x86\Debug\MainWindow.baml
+D:\zz-Tools development\cangun05\cangun\cangun\obj\x86\Debug\cangun.g.resources
+D:\zz-Tools development\cangun05\cangun\cangun\obj\x86\Debug\cangun.Properties.Resources.resources
+D:\zz-Tools development\cangun05\cangun\cangun\obj\x86\Debug\cangun.csproj.GenerateResource.Cache
+D:\zz-Tools development\cangun05\cangun\cangun\obj\x86\Debug\cangun.exe.manifest
+D:\zz-Tools development\cangun05\cangun\cangun\obj\x86\Debug\cangun.application
+d:\tool\cangun\_cangun\cangun\bin\Debug\cangun.exe.config
+d:\tool\cangun\_cangun\cangun\obj\x86\Debug\cangun.exe
+d:\tool\cangun\_cangun\cangun\obj\x86\Debug\cangun.pdb
+d:\tool\cangun\_cangun\cangun\obj\x86\Debug\cangun.csprojResolveAssemblyReference.cache
+d:\tool\cangun\_cangun\cangun\obj\x86\Debug\Themes\ThemeDic.baml
+d:\tool\cangun\_cangun\cangun\obj\x86\Debug\MainWindow.g.cs
+d:\tool\cangun\_cangun\cangun\obj\x86\Debug\App.g.cs
+d:\tool\cangun\_cangun\cangun\obj\x86\Debug\cangun_Content.g.cs
+d:\tool\cangun\_cangun\cangun\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+d:\tool\cangun\_cangun\cangun\obj\x86\Debug\cangun_MarkupCompile.cache
+d:\tool\cangun\_cangun\cangun\obj\x86\Debug\cangun_MarkupCompile.lref
+d:\tool\cangun\_cangun\cangun\obj\x86\Debug\MainWindow.baml
+d:\tool\cangun\_cangun\cangun\obj\x86\Debug\cangun.g.resources
+d:\tool\cangun\_cangun\cangun\bin\Debug\vxlapi.dll
+d:\tool\cangun\_cangun\cangun\bin\Debug\vxlapi_NET20.dll
+d:\tool\cangun\_cangun\cangun\bin\Debug\cangun.exe.manifest
+d:\tool\cangun\_cangun\cangun\bin\Debug\cangun.application
+d:\tool\cangun\_cangun\cangun\bin\Debug\cangun.exe
+d:\tool\cangun\_cangun\cangun\bin\Debug\cangun.pdb
+d:\tool\cangun\_cangun\cangun\obj\x86\Debug\cangun.Properties.Resources.resources
+d:\tool\cangun\_cangun\cangun\obj\x86\Debug\cangun.csproj.GenerateResource.Cache
+d:\tool\cangun\_cangun\cangun\obj\x86\Debug\cangun.exe.manifest
+d:\tool\cangun\_cangun\cangun\obj\x86\Debug\cangun.application
