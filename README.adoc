@@ -1,0 +1,5 @@
+== Cangun
+
+Application for tracking the CAN comunication in automotive bus system
+
+image::sequencer.PNG[Main Window]
